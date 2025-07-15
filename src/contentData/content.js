@@ -14,7 +14,7 @@ const productData = [
       name: "BOX 5G SPEED PRO",
       image:"https://i.ibb.co/wwm20Z4/icon-icon.png",
       productType: "openBackHeadphones",
-      description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
+      description: ["OVPN", "UDP", "V2RAY"],
       rating: 5,
       timeLeft: 24,
       appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/box5gpro-release.apk" 
