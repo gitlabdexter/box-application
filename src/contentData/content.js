@@ -2,24 +2,22 @@ const productData = [
     {
       id: 1,
       name: "SUMSAG ULTRA",
-      image:
-        "https://i.ibb.co/1RF1Gfq/favicon.png",
+      image:"https://i.ibb.co/1RF1Gfq/favicon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
       timeLeft: 27,
       appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/final-release.apk"
-     //  },
-   // {
-    //  id: 2,
-     // name: "180G HIGH SPEED PRO MAX",
-     // image:
-     //   "https://i.ibb.co/wwm20Z4/icon-icon.png",
-     // productType: "openBackHeadphones",
-     // description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
-     // rating: 5,
-     // timeLeft: 24,
-     // appLink: "https://panelvip.co.uk/180ghighspeedpromax-release.apk" 
+       },
+    {
+      id: 2,
+      name: "BOX 5G SPEED PRO",
+      image:"https://i.ibb.co/wwm20Z4/icon-icon.png",
+      productType: "openBackHeadphones",
+      description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
+      rating: 5,
+      timeLeft: 24,
+      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/box5gpro-release.apk" 
    // },
     //{
    //   id: 3,
