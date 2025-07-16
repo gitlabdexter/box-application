@@ -17,7 +17,7 @@ const productData = [
       description: ["OVPN", "UDP", "V2RAY"],
       rating: 5,
       timeLeft: 24,
-      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/box5gpro-release.apk" 
+      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/appbox-release.apk" 
    // },
     //{
    //   id: 3,
