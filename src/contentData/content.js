@@ -1,23 +1,23 @@
 const productData = [
     {
       id: 1,
-      name: "SUMSAG ULTRA",
+      name: "SUMSAG FIRST",
+      image:"https://i.ibb.co/1RF1Gfq/favicon.png",
+      productType: "openBackHeadphones",
+      description: ["OVPN", "UDP", "V2RAY"],
+      rating: 5,
+      timeLeft: 24,
+      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/app.boxvpntunnel.dexbuild-DexBuild-V2-release.apk?inline=false" 
+       },
+    {
+      id: 2,
+      name: "SUMSAG SECOND",
       image:"https://i.ibb.co/1RF1Gfq/favicon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
       timeLeft: 27,
       appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/final-release.apk"
-       },
-    {
-      id: 2,
-      name: "BOX 5G SPEED PRO",
-      image:"https://i.ibb.co/1RF1Gfq/favicon.png",
-      productType: "openBackHeadphones",
-      description: ["OVPN", "UDP", "V2RAY"],
-      rating: 5,
-      timeLeft: 24,
-      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/appbox-release.apk" 
    // },
     //{
    //   id: 3,
