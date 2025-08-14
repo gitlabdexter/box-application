@@ -1,7 +1,7 @@
 const productData = [
     {
       id: 1,
-      name: "BOX FIRST",
+      name: "Box 5g Speed Pro",
       image:"https://i.ibb.co/1RF1Gfq/favicon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY"],
