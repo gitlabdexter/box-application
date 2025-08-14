@@ -1,7 +1,7 @@
 const productData = [
     {
       id: 1,
-      name: "SUMSAG FIRST",
+      name: "BOX FIRST",
       image:"https://i.ibb.co/1RF1Gfq/favicon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY"],
