@@ -11,7 +11,7 @@ const productData = [
        },
     {
       id: 2,
-      name: "SUMSAG SECOND",
+      name: "SUMSAG ULTRA",
       image:"https://i.ibb.co/1RF1Gfq/favicon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
