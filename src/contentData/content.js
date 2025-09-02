@@ -11,7 +11,7 @@ const productData = [
        },
     {
       id: 2,
-      name: "SUMSAG ULTRA",
+      name: "180G HIGH SPEED PRO",
       image:"https://i.ibb.co/Gv6jGVQx/icon-icon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
