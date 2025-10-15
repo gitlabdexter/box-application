@@ -7,7 +7,7 @@ const productData = [
       description: ["OVPN", "UDP", "V2RAY"],
       rating: 5,
       timeLeft: 24,
-      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/app.boxvpntunnel.dexbuild-DexBuild-V2-release.apk" 
+      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/app.boxvpntunnel.dexbuild-DexBuild.apk" 
        },
     {
       id: 2,
