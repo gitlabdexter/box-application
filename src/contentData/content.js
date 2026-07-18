@@ -12,12 +12,12 @@ const productData = [
     {
       id: 2,
       name: "180G HIGH SPEED PRO",
-      image:"https://i.ibb.co/Gv6jGVQx/icon-icon.png",
+      image:"https://i.ibb.co/QvTNHKnw/ic-app-icon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
       timeLeft: 27,
-      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/demo-release.apk"
+      appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/box-180g.apk"
    // },
     //{
    //   id: 3,
